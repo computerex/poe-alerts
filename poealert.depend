@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1394651053 source:c:\projects\poealert\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1385320478 c:\projects\poealert\resource.h
+
+1395127173 source:c:\projects\poealert\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
